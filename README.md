@@ -1,7 +1,7 @@
 # DigitalLocker using file_hanlding_in_java
 The Digital Locker System is a Java-based desktop application that allows users to securely sign up
 , log_in and upload personal files to a local locker directory.
-# It provides a simple graphical user interface(GUI) built using Java Swing, and handles user authetication and file management using file handling in Java.
+#It provides a simple graphical user interface(GUI) built using Java Swing, and handles user authetication and file management using file handling in Java.
 #This project aims to simulate a basic file storage system with login/signup functionalities -similar to how cloud lockers work - but stores data locally for simplicity and academic purposes.
 
 ## Features 
@@ -12,7 +12,7 @@ The Digital Locker System is a Java-based desktop application that allows users 
 5.Modular structure with separate classes for UI, authentication, and file operations
 6.Error handling with informative dialogs 
 
-Technologies used:
+## Technologies used:
 1.JAVA(CORE + SWING)
 2.JAVA FILE(I/O)
 3.JAVA AWT & SWING for GUI
